@@ -1,0 +1,13 @@
+지금까지 만든 백운교회 홈페이지 전체 소스를 압축해 두었습니다.
+
+[백운교회 홈페이지 전체 소스 내려받기](sandbox:/workspace/scratch/2c200a2b1682/Baegun-Church-Website-Source-2026-09-16.zip)
+
+주요 소스도 직접 확인할 수 있습니다.
+
+* [홈페이지 메인 화면](sandbox:/workspace/scratch/2c200a2b1682/baegun-source-xsJGkx/baegun-church/app/page.tsx)
+* [관리자 화면](sandbox:/workspace/scratch/2c200a2b1682/baegun-source-xsJGkx/baegun-church/app/admin/page.tsx)
+* [관리자 편집 기능](sandbox:/workspace/scratch/2c200a2b1682/baegun-source-xsJGkx/baegun-church/components/admin-editor.tsx)
+* [홈페이지 디자인](sandbox:/workspace/scratch/2c200a2b1682/baegun-source-xsJGkx/baegun-church/app/site.css)
+* [소스 사용 안내](sandbox:/workspace/scratch/2c200a2b1682/baegun-source-xsJGkx/baegun-church/소스안내.md)
+
+전체 125개 파일이며, 관리자 비밀번호·서버 식별정보·설치파일·임시파일은 안전을 위해 제외했습니다. 관리자 비밀번호는 소스에 기록되지 않고 서버에서 별도로 설정하는 구조입니다.
